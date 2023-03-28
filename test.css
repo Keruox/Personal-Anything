@@ -2,9 +2,9 @@
 :root {
     /* theme color palette */
     --dracula-primary: #110D0A;
-    --dracula-secondary: #15100D;
+    --dracula-secondary: #16110e;
     --dracula-secondary-alpha: rgba(36, 38, 49, 0.9);
-    --dracula-tertiary: #15100D;
+    --dracula-tertiary: #110D0A;
     --dracula-tertiary-alpha: rgba(32, 34, 44, 0.6);
     --dracula-primary-light: #524235;
     --dracula-accent: #D1B7A1;
@@ -14,6 +14,11 @@
     --dracula-accent-dark: #D1B7A1;
     --dracula-accent-light: #D1B7A1;
     /* discord variables */
+    --text-muted: #856c60;
+    --interactive-hover: #a1826c;
+    --interactive-active: #927052;
+    --channels-default: #cfbaa7;
+    --interactive-normal: #5f4c3c;
     --channeltextarea-background: var(--dracula-secondary);
     --background-primary: var(--dracula-primary);
     --background-secondary: var(--dracula-secondary);
@@ -23,7 +28,7 @@
     --scrollbar-thumb: var(--dracula-primary-light);
     --scrollbar-thin-thumb: var(--dracula-primary-light);
     --scrollbar-auto-scrollbar-color-thumb: var(--dracula-primary-light);
-    --scrollbar-auto-track: var(--dracula-primary);
+    --scrollbar-auto-track: var(--dracula-secondary);
     --scrollbar-auto-scrollbar-color-track: var(--dracula-primary);
     --scrollbar-auto-thumb: var(--dracula-primary-light);
     --text-link: var(--dracula-accent);
