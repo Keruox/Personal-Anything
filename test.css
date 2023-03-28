@@ -4,7 +4,7 @@
     --dracula-primary: #110D0A;
     --dracula-secondary: #15100D;
     --dracula-secondary-alpha: rgba(36, 38, 49, 0.9);
-    --dracula-tertiary: #20222c;
+    --dracula-tertiary: #15100D;
     --dracula-tertiary-alpha: rgba(32, 34, 44, 0.6);
     --dracula-primary-light: #524235;
     --dracula-accent: #D1B7A1;
@@ -18,7 +18,7 @@
     --background-primary: var(--dracula-primary);
     --background-secondary: var(--dracula-secondary);
     --background-secondary-alt: var(--dracula-secondary);
-    --background-tertiary: var(--dracula-secondary);
+    --background-tertiary: var(--dracula-tertiary);
     --background-accent: var(--dracula-accent);
     --scrollbar-thumb: var(--dracula-primary-light);
     --scrollbar-thin-thumb: var(--dracula-primary-light);
