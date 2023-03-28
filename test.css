@@ -35,6 +35,10 @@
     --header-primary: var(--dracula-accent);
     --background-floating: var(--dracula-secondary);
     --deprecated-text-input-border: var(--dracula-tertiary);
+    --background-modifier-hover: rgba(94, 94, 94, 0.062);
+    --background-modifier-active: rgba(19, 12, 12, 0.123);
+    --background-modifier-selected: rgba(31, 21, 21, 0.11);
+
     --deprecated-card-editable-bg: var(--dracula-secondary);
     --deprecated-text-input-bg: var(--dracula-secondary);
     --deprecated-text-input-border: var(--dracula-tertiary);
