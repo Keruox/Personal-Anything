@@ -1,7 +1,11 @@
 .theme-dark,
 :root {
     /* theme color palette */
+<<<<<<< HEAD
     --dracula-primary: #1B1E22;
+=======
+    --dracula-primary: #282a36;
+>>>>>>> 2ce00a52621046da0cb902fc13ccf2d05ad3d7da
     --dracula-secondary: #151617;
     --dracula-secondary-alpha: rgba(36, 38, 49, 0.9);
     --dracula-tertiary: #20222c;
